@@ -1,4 +1,10 @@
-### Hi there 👋 [WIP]
+### Welcome 👋
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nlucansk&theme=dark)
+
+---
 
 ### OS used: 
 
