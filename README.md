@@ -2,8 +2,8 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nlucansk&theme=dark)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nlucansk&theme=blue-green)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nlucansk&theme=blue-green)
 ---
 
 ### OS used: 
@@ -50,11 +50,14 @@ Jotunheim [WIP]:<br>
 SmartHome cluster: <br>
 ![](https://img.shields.io/badge/16x%204GB%20Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
+3D Printer Farm: <br>
+![](https://badgen.net/static/Prusa/MINI/blue)
+
 
 ---
 ### Contact:
 <p align='left'>
-  <a href="https://www.artstation.com/darkronus77"><img src="https://img.shields.io/badge/artstation-%2313AFF0.svg?&style=for-the-badge&logo=artstation&logoColor=white" />
+  <a href="https://)www.artstation.com/darkronus77"><img src="https://img.shields.io/badge/artstation-%2313AFF0.svg?&style=for-the-badge&logo=artstation&logoColor=white" />
   <a href="https://keybase.io/nlucansk"><img src="https://img.shields.io/badge/GPG-333?style=for-the-badge&logo=GNU Privacy Guard&logoColor=0093DD"/>
   <a href="https://www.linkedin.com/in/puredevopsmasterrace"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   <a href="mailto:nikolas.lucansky@gmail.com"><img src="https://img.shields.io/badge/nikolas.lucansky@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
