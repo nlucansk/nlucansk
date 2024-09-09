@@ -19,10 +19,30 @@
 ---
 ### Homelab:
 
-Mainframe:<br>
+Mainframe (Backup):<br>
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/apple%20silicon%20M1-333333?style=for-the-badge&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/16GB-333333?style=for-the-badge&logoColor=white)
+
+Mainframe-2:<br>
+![](https://img.shields.io/badge/AMD%207800X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![](https://img.shields.io/badge/128GB-ED1C24?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/nvidia-rtx%204080%20Super-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)
+
+Mainframe-3:<br>
+![](https://img.shields.io/badge/AMD%207950X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![](https://img.shields.io/badge/128GB-ED1C24?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/nvidia-rtx%204080%20Super-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)
+
+Mainframe-4 (WIP) :<br>
+![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/apple%20silicon%20M4%20Max-333333?style=for-the-badge&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/128GB-333333?style=for-the-badge&logoColor=white)
+
+Mainframe-5 (WIP) :<br>
+![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/apple%20silicon%20M4%20Max-333333?style=for-the-badge&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/128GB-333333?style=for-the-badge&logoColor=white)
 
 Asgard:<br>
 ![](https://img.shields.io/badge/proxmox-%23E57000.svg?&style=for-the-badge&logo=proxmox&logoColor=white)
