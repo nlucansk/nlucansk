@@ -2,10 +2,6 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nlucansk&theme=blue-green)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nlucansk&theme=blue-green)
----
-
 ### OS used: 
 
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
