@@ -33,12 +33,12 @@ Mainframe-3:<br>
 Mainframe-4 (WIP) :<br>
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/apple%20silicon%20M4%20Max-333333?style=for-the-badge&logo=apple&logoColor=white)
-![](https://img.shields.io/badge/128GB-333333?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/64GB-333333?style=for-the-badge&logoColor=white)
 
 Mainframe-5 (WIP) :<br>
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/apple%20silicon%20M4%20Max-333333?style=for-the-badge&logo=apple&logoColor=white)
-![](https://img.shields.io/badge/128GB-333333?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/64GB-333333?style=for-the-badge&logoColor=white)
 
 Asgard:<br>
 ![](https://img.shields.io/badge/proxmox-%23E57000.svg?&style=for-the-badge&logo=proxmox&logoColor=white)
