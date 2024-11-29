@@ -63,7 +63,7 @@ Jotunheim [WIP]:<br>
 ![](https://img.shields.io/badge/Intel%2013900K-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)
 ![](https://img.shields.io/badge/128GB-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)
 
-SmartHome cluster: <br>
+SmartHome cluster (Deprecated in favor of Asus NUC cluster [TODO]: <br>
 ![](https://img.shields.io/badge/16x%204GB%20Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
 3D Printer Farm: <br>
