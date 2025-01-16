@@ -30,7 +30,7 @@ Mainframe-3 (Will become Sunshine node) <br>
 ![](https://img.shields.io/badge/128GB-ED1C24?style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/nvidia-rtx%204080%20Super-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)
 
-Mainframe-4 (WIP) :<br>
+Odin :<br>
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/apple%20silicon%20M4%20Max-333333?style=for-the-badge&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/64GB-333333?style=for-the-badge&logoColor=white)
