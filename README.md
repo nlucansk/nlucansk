@@ -44,19 +44,16 @@ Asgard:<br>
 ![](https://img.shields.io/badge/proxmox-%23E57000.svg?&style=for-the-badge&logo=proxmox&logoColor=white)
 ![](https://img.shields.io/badge/Intel%207820X-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)
 ![](https://img.shields.io/badge/128GB-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)
-![](https://img.shields.io/badge/nvidia-gtx%201080Ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)
 
 Yggdrasil:<br>
 ![](https://img.shields.io/badge/proxmox-%23E57000.svg?&style=for-the-badge&logo=proxmox&logoColor=white)
 ![](https://img.shields.io/badge/AMD%205600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![](https://img.shields.io/badge/64GB-ED1C24?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/nvidia-gtx%201080Ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)
 
 Helheim:<br>
 ![](https://img.shields.io/badge/proxmox-%23E57000.svg?&style=for-the-badge&logo=proxmox&logoColor=white)
 ![](https://img.shields.io/badge/AMD%205950X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![](https://img.shields.io/badge/64GB-ED1C24?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/nvidia-gtx%201080-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)
 
 Jotunheim [Under redo AMD....]:<br>
 ![](https://img.shields.io/badge/proxmox-%23E57000.svg?&style=for-the-badge&logo=proxmox&logoColor=white)
